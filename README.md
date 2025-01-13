@@ -67,25 +67,27 @@ Here are some ideas to get you started:
 ## 🎯 Projects
 1. **Fine-Tuning for Sentiment Analysis**  
    - Used **HuggingFace API** and **GPT2** to fine-tune on tweet sentiment extraction dataset.  
-   - Pushed the model to HuggingFace from where any user can use the model (https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets).  
+   - Pushed the model to HuggingFace from where any user can use the model (https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets) 
 
 2. **Text2Image Generator**  
    - Integrated Stable Diffusion for producing high-quality images from textual prompts.  
    - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://scriptart.onrender.com)
 
-3. **Customer Segmentation for Bank Credit Card Holders**  
-   - Clustered customers using **K-Means** and analyzed profiles for marketing strategies.  
-   - Delivered actionable insights for targeted campaigns.  
+3. **Diabetes Prediction**  
+   - Developed an end-to-end predictive model for assessing an individual's risk of developing diabetes.  
+   - Evaluated multiple machine learning models and selected Random Forest for its superior performance.
+   - Conducted hyperparameter tuning to optimize accuracy and reliability  
 
-4. **Loan Status Prediction Model**  
-   - Built a **Random Forest Classifier** to predict loan approvals based on customer data.  
+4. **WhatsApp Chatbot for Appointment Scheduling**  
+   - Designed and implemented a WhatsApp chatbot using Twilio API for efficient appointment management.
+   - Enabled functionalities for booking, rescheduling, and managing appointments with OTP-based authentication.
+   - Secured user data and appointment details using MongoDB
 
 ---
 
 ## 🌟 Achievements
-- **Certifications:** Machine Learning, Generative AI  
-- **Open Source Contributions:** Contributed to chatbot frameworks like **Botpress**.  
-- **Hackathon Participation:** Solved real-world data challenges in competitive environments.
+- **Certifications:** Data Science & Machine Learning Program, British Airways Data Science Virtual Experience Program
+- **Hackathon Participation:** Solved real-world data challenges in competitive environments (IT Day Rajasthan, 2023).
 
 ---
 
