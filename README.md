@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 </p>
 
 ### Machine Learning & AI
-- Random Forest, K-Means Clustering, ANN, CNN, RNN, LSTMs, NLP, HuggngFace, LangChain, Fine-Tuning   
+- Regression, Classification & Clustering (Random Forest, K-Means Clustering, DBSCAN etc.)
+- ANN, CNN, RNN, LSTMs, NLP
+- HuggngFace, LangChain, Fine-Tuning
 - TensorFlow, NLTK, Pandas, Scikit-learn, Numpy  
 
 ### NLP Expertise
