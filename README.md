@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 2. **Text2Image Generator**  
    - Integrated Stable Diffusion for producing high-quality images from textual prompts.  
-   - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://www.scriptart.onrender.com)
+   - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://scriptart.onrender.com)
 
 3. **Customer Segmentation for Bank Credit Card Holders**  
    - Clustered customers using **K-Means** and analyzed profiles for marketing strategies.  
