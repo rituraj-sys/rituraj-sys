@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 </p>
 
 ### Machine Learning & AI
-- Random Forest, K-Means Clustering, LSTMs  
-- TensorFlow, PyTorch, Pandas, Scikit-learn, Numpy  
+- Random Forest, K-Means Clustering, ANN, CNN, RNN, LSTMs, NLP, HuggngFace, LangChain, Fine-Tuning   
+- TensorFlow, NLTK, Pandas, Scikit-learn, Numpy  
 
 ### NLP Expertise
-- Text Classification, Sentiment Analysis, Chatbot Development  
+- Text Classification, Sentiment Analysis, Chatbot Development, Fine-Tuning  
 
 ### Tools & Platforms
 <p>
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 Projects
-1. **Retrieval-Augmented Generation (RAG) for QA Bot**  
-   - Used **Cohere API** and **Pinecone** to build a QA chatbot leveraging RAG.  
-   - Enhanced retrieval accuracy with semantic search and fine-tuned QA generation.  
+1. **Fine-Tuning for Sentiment Analysis**  
+   - Used **HuggingFace API** and **GPT2** to fine-tune on tweet sentiment extraction dataset.  
+   - Pushed the model to HuggingFace from where any user can use the model (https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets).  
 
 2. **WhatsApp NGO Donation Bot**  
    - Streamlined user registration, donation processing, and 80G receipt distribution.  
