@@ -69,9 +69,9 @@ Here are some ideas to get you started:
    - Used **HuggingFace API** and **GPT2** to fine-tune on tweet sentiment extraction dataset.  
    - Pushed the model to HuggingFace from where any user can use the model (https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets).  
 
-2. **WhatsApp NGO Donation Bot**  
-   - Streamlined user registration, donation processing, and 80G receipt distribution.  
-   - Implemented **MongoDB** for data storage and **Meta API** for message delivery.  
+2. **Text2Image Generator**  
+   - Integrated Stable Diffusion for producing high-quality images from textual prompts.  
+   - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://www.scriptart.onrender.com)
 
 3. **Customer Segmentation for Bank Credit Card Holders**  
    - Clustered customers using **K-Means** and analyzed profiles for marketing strategies.  
