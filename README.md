@@ -41,9 +41,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </p>
 
-### Machine Learning & AI
-- Regression, Classification & Clustering (Random Forest, K-Means Clustering, DBSCAN etc.)
-- ANN, CNN, RNN, LSTMs, NLP
+### 🤖 Machine Learning & AI
+- **Fine-tuning**: Expertise in fine-tuning pre-trained models for specific tasks.
+- Model Development (ML/DL)
+- Transfer Learning
+- Natural Language Processing (NLP)
+- Hyperparameter Optimization
 
 ### NLP Expertise
 - Text Classification, Sentiment Analysis, Chatbot Development, Fine-Tuning  
