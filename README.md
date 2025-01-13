@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **rituraj-sys/rituraj-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,8 +91,8 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rituraj-p&show_icons=true&theme=radical" alt="Rituraj's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-p&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=radical" alt="Rituraj's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
