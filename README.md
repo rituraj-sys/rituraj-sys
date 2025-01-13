@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🎓 **Education:** Master's in Data Science | B.Sc. in Computer Science  
 - 🏢 **Current Role:** Chatbot Development Intern at Skygoal Innova Technologies Pvt Ltd  
 - 🌱 **Learning:** Generative AI, Retrieval-Augmented Generation (RAG), Advanced NLP  
-- 💡 **Interests:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Scalp Trading  
-- 📫 **Reach me:** rituraj.pandey@example.com  
+- 💡 **Interests:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI 
+- 📫 **Reach me:** riturajpandey.cs19@gmail.com  
 
 ---
 
