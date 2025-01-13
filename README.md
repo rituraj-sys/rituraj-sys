@@ -98,6 +98,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📬 Connect with Me
-- **Email:** [rituraj.pandey@example.com](mailto:rituraj.pandey@example.com)  
-- **LinkedIn:** [linkedin.com/in/rituraj-pandey](https://linkedin.com/in/rituraj-pandey)  
+- **Email:** [riturajpandey.cs19@gmail.com](mailto:riturajpandey.cs19@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rituraj-pandey](https://www.linkedin.com/in/rituraj-pandey-448623200)  
 
