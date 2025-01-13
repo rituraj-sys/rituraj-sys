@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm **Rituraj Pandey**!
 
-🚀 **Data Science Enthusiast | Machine Learning Developer | Chatbot Expert**
+🚀 **Generative AI Inthusiast | Deep Learning | NLP | Chatbot Expert**
 
 ---
 
