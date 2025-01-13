@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ### Machine Learning & AI
 - Regression, Classification & Clustering (Random Forest, K-Means Clustering, DBSCAN etc.)
 - ANN, CNN, RNN, LSTMs, NLP
-- Fine-Tuning
 
 ### NLP Expertise
 - Text Classification, Sentiment Analysis, Chatbot Development, Fine-Tuning  
