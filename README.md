@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - Hyperparameter Optimization
 
 ### NLP Expertise
-- Text Classification, Sentiment Analysis, Chatbot Development, Fine-Tuning  
+- Text Classification, Sentiment Analysis, Chatbot Development
 
 ### Tools & Platforms
 <p>
