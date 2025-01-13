@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow">
 </p>
 
-## 📚 Libraries & Frameworks
+### 📚 Libraries & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Hugging%20Face-F57600?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
   <img src="https://img.shields.io/badge/LangChain-48C9B0?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
@@ -70,6 +70,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/NLTK-32CD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
 ---
