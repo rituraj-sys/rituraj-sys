@@ -96,12 +96,17 @@ Here are some ideas to get you started:
    - Integrated Stable Diffusion for producing high-quality images from textual prompts.  
    - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://scriptart.onrender.com)
 
-3. **Diabetes Prediction**  
+3. **Financial Agentic AI**
+   - Developed a multi-agent system leveraging **PhiData** for structured financial data processing and **Groq** for real-time computational analysis.  
+   - Integrated live data retrieval and contextual search capabilities using **Yahoo Finance** and **DuckDuckGo APIs** to provide accurate, up-to-date insights.  
+   - Implemented intelligent query routing among specialized AI agents (Search, Data, and Analysis) for handling complex financial queries with precision. (https://finance-agentic-ai.onrender.com/)
+
+4. **Diabetes Prediction**  
    - Developed an end-to-end predictive model for assessing an individual's risk of developing diabetes.  
    - Evaluated multiple machine learning models and selected Random Forest for its superior performance.
    - Conducted hyperparameter tuning to optimize accuracy and reliability  
 
-4. **WhatsApp Chatbot for Appointment Scheduling**  
+5. **WhatsApp Chatbot for Appointment Scheduling**  
    - Designed and implemented a WhatsApp chatbot using Twilio API for efficient appointment management.
    - Enabled functionalities for booking, rescheduling, and managing appointments with OTP-based authentication.
    - Secured user data and appointment details using MongoDB
