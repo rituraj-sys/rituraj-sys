@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 - 🎓 **Education:** Master's in Data Science | B.Sc. in Computer Science  
-- 🏢 **Current Role:** Chatbot Development Intern at Skygoal Innova Technologies Pvt Ltd  
+- 🏢 **Current Role:** Data Science Consultant at Solytics Partners  
 - 🌱 **Learning:** Generative AI, Retrieval-Augmented Generation (RAG), Advanced NLP  
 - 💡 **Interests:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI 
 - 📫 **Reach me:** riturajpandey.cs19@gmail.com  
