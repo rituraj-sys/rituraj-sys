@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 ## 💼 Work Experience
 
 ### **Solytics Partners**  
-- Worked as a Data Science Consultant on AI/ML projects with a focus on scalable solutions.  
-- Contributed to the development and optimization of data pipelines, model evaluation workflows, and analytical tools.
+- Working as a Data Science Consultant on AI/ML projects with a focus on scalable solutions.  
+- Contributing to the development and optimization of data pipelines, model evaluation workflows, and analytical tools.
 ---
 
 ---
