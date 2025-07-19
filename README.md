@@ -80,6 +80,12 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 
+### **Solytics Partners**  
+- Worked as a Data Science Consultant on AI/ML projects with a focus on scalable solutions.  
+- Contributed to the development and optimization of data pipelines, model evaluation workflows, and analytical tools.
+---
+
+---
 ### **Skygoal Innova Technologies Pvt Ltd**
 - Developed WhatsApp chatbots using **Meta API** and integrated them with payment gateways.  
 - Designed dynamic workflows for NGO donation processes and customer engagement.  
