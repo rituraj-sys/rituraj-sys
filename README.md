@@ -205,9 +205,11 @@ Fine-tuned GPT-2 on tweet sentiment extraction dataset.
 
 ## 📈 GitHub Stats
 
-![Rituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rituraj-sys&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rituraj-sys&theme=tokyonight)
 
 ---
 
