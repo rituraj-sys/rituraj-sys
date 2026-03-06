@@ -1,68 +1,51 @@
+<!--
+**rituraj-sys/rituraj-sys** is a special repository because its README.md appears on your GitHub profile.
+-->
+
 # Hi there 👋 I'm **Rituraj Pandey**
 
-🚀 **Generative AI Engineer | LLM Systems | NLP | Agentic AI**
+🚀 **AI Solution Engineer | Generative AI | LLM Systems | RAG | Agentic AI**
 
-I design and build **production-ready AI systems using Large Language Models**, focusing on **RAG pipelines, hallucination detection, evaluation frameworks, and intelligent agent architectures.**
+I design and build **production-ready AI systems using Large Language Models**, focusing on **Retrieval-Augmented Generation (RAG), intelligent agents, evaluation pipelines, and reliable AI systems.**
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **Master's in Data Science | B.Sc. Computer Science**
-- 🤖 Specialized in **Generative AI & LLM Systems Engineering**
-- 🧠 Focused on **RAG, GraphRAG, LLM Evaluation, Hallucination Detection**
-- 🏗 Building **AI systems for real-world applications**
-- 🌍 Interested in **scalable AI infrastructure and trustworthy AI**
+- 🤖 Specialized in **Generative AI & LLM Systems**
+- 🧠 Focused on **RAG, Knowledge Graph Retrieval, Hallucination Detection, and AI Reliability**
+- 🏗 Building **AI-powered enterprise systems**
+- 🌍 Interested in **scalable and trustworthy AI infrastructure**
 
 📫 **Reach me:** riturajpandey.cs19@gmail.com  
 
 ---
 
-# 🌟 Visitors
+## 🌟 Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=rituraj-sys)
 
 ---
 
-# 🧠 Core Expertise
+## 🔬 Specialization
 
-### 🤖 Generative AI & LLM Systems
+- Large Language Model Systems
 - Retrieval-Augmented Generation (RAG)
-- Graph RAG (Knowledge Graph based Retrieval)
-- LLM Fine-Tuning (PEFT / LoRA / Instruction tuning)
-- Hallucination Detection & Mitigation
-- LLM Evaluation & Observability
-- Agentic AI Systems
-- Multi-Agent Architectures
-- LLM Guardrails & Reliability
+- Knowledge Graph Retrieval
+- LLM Hallucination Detection
+- AI Evaluation & Observability
+- Agentic AI Architectures
+- Prompt Engineering & Tool Integration
 
 ---
 
-### 🧠 Machine Learning & Deep Learning
-- Supervised / Unsupervised Learning
-- Model Evaluation & Optimization
-- Feature Engineering
-- Hyperparameter Optimization
-- Transfer Learning
-- End-to-End ML Pipelines
+## 🛠️ Tech Stack
 
----
-
-### 📊 NLP & Text Intelligence
-- Text Classification
-- Sentiment Analysis
-- Named Entity Recognition
-- Question Answering Systems
-- Semantic Similarity
-- Information Retrieval
-
----
-
-# 🛠️ Tech Stack
-
-### Programming
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
@@ -78,13 +61,14 @@ I design and build **production-ready AI systems using Large Language Models**, 
 
 ---
 
-### LLM Systems & GenAI Tools
-- Groq API
-- FAISS Vector Search
-- Embedding Models
-- Agent Frameworks
+### GenAI & LLM Systems
+- Retrieval-Augmented Generation (RAG)
+- Graph-based Knowledge Retrieval
+- LLM Fine-tuning
+- Multi-Agent Systems
 - Prompt Engineering
-- Model Evaluation Pipelines
+- LLM Evaluation Pipelines
+- Vector Search (FAISS)
 
 ---
 
@@ -101,42 +85,59 @@ I design and build **production-ready AI systems using Large Language Models**, 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
 
-# 💼 Work Experience
+## 💼 Work Experience
 
-## **Solytics Partners**
+### **CloudZenia**
+**AI Solution Engineer | Present**
+
+- Designing **enterprise AI solutions using Large Language Models**
+- Built an **internal knowledge assistant** integrating **Google Drive, Notion, and CRM systems**
+- Implemented **RAG pipelines for enterprise document retrieval**
+- Developed **AI agents and workflow automation systems**
+- Optimized **LLM prompts and response grounding**
+
+---
+
+### **Solytics Partners**
 **Data Science Consultant**
 
-- Developing **AI/ML solutions for real-world applications**
-- Designing **LLM evaluation pipelines and analytical workflows**
-- Building **data pipelines and model validation systems**
+- Worked on **AI/ML solutions for real-world business problems**
+- Developed **data pipelines and predictive models**
+- Built **model evaluation workflows**
+- Delivered **data-driven insights for business decision making**
 
 ---
 
-## **Skygoal Innova Technologies Pvt Ltd**
+### **Skygoal Innova Technologies Pvt Ltd**
 **Chatbot Developer Intern**
 
-- Built **WhatsApp chatbots using Meta API**
-- Integrated **payment workflows and automation systems**
-- Designed **scalable chatbot architectures for NGOs and businesses**
+- Developed **WhatsApp chatbots using Meta API**
+- Integrated **payment gateways and automated workflows**
+- Designed **dynamic conversation flows for NGOs**
+- Improved chatbot **response performance and scalability**
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## 🧠 Financial Agentic AI
+### 🧠 Financial Agentic AI
+
 Multi-agent financial intelligence system.
 
 **Tech Stack**
-- PhiData
-- Groq LLM
-- Yahoo Finance API
-- DuckDuckGo Search
+
+- PhiData  
+- Groq LLM  
+- Yahoo Finance API  
+- DuckDuckGo Search  
 
 **Features**
+
 - Multi-agent reasoning
 - Live financial data retrieval
 - Intelligent tool routing
@@ -145,19 +146,22 @@ Multi-agent financial intelligence system.
 
 ---
 
-## 🧠 LLM Hallucination Detection System
-Custom pipeline to detect hallucinations without ground truth.
+### 🧠 LLM Hallucination Detection System
+
+Developed a pipeline to detect hallucinations in LLM outputs.
 
 **Techniques**
+
 - Semantic similarity verification
 - NLI-based contradiction detection
-- NER validation
-- Token-level hallucination detection
+- Named entity verification
+- Span-level hallucination detection
 
 ---
 
-## 📊 Customer Churn Prediction
-End-to-end ML pipeline for predicting telecom churn.
+### 📊 Customer Churn Prediction
+
+End-to-end ML pipeline for telecom churn prediction.
 
 - Feature engineering
 - Outlier treatment
@@ -166,29 +170,31 @@ End-to-end ML pipeline for predicting telecom churn.
 
 ---
 
-## 🖼 Text-to-Image Generator
+### 🖼 Text-to-Image Generator
+
 Stable Diffusion based text-to-image generation system.
 
 🔗 https://scriptart.onrender.com
 
 ---
 
-## 🤖 GPT2 Sentiment Fine-Tuning
+### 🤖 GPT-2 Sentiment Fine-Tuning
+
 Fine-tuned GPT-2 on tweet sentiment extraction dataset.
 
 🔗 https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - Data Science & Machine Learning Certification
 - British Airways Data Science Virtual Experience
-- Hackathon Participation (IT Day Rajasthan)
+- Hackathon Participation – IT Day Rajasthan
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=radical"/>
@@ -197,14 +203,14 @@ Fine-tuned GPT-2 on tweet sentiment extraction dataset.
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect with Me
 
-📧 Email  
+📧 **Email:**  
 riturajpandey.cs19@gmail.com  
 
-🔗 LinkedIn  
+🔗 **LinkedIn:**  
 https://www.linkedin.com/in/rituraj-pandey-448623200
 
 ---
 
-⭐ *Always exploring ways to build more reliable, interpretable, and scalable AI systems.*
+⭐ Passionate about building **reliable and scalable AI systems**.
