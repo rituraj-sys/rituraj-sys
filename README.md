@@ -1,139 +1,210 @@
+# Hi there 👋 I'm **Rituraj Pandey**
 
-<!--
-**rituraj-sys/rituraj-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Generative AI Engineer | LLM Systems | NLP | Agentic AI**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there 👋 I'm **Rituraj Pandey**!
-
-🚀 **Generative AI Inthusiast | Deep Learning | NLP | Chatbot Expert**
+I design and build **production-ready AI systems using Large Language Models**, focusing on **RAG pipelines, hallucination detection, evaluation frameworks, and intelligent agent architectures.**
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **Education:** Master's in Data Science | B.Sc. in Computer Science  
-- 🏢 **Current Role:** Data Science Consultant at Solytics Partners  
-- 🌱 **Learning:** Generative AI, Retrieval-Augmented Generation (RAG), Advanced NLP  
-- 💡 **Interests:** Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI 
-- 📫 **Reach me:** riturajpandey.cs19@gmail.com  
+# 👨‍💻 About Me
+
+- 🎓 **Master's in Data Science | B.Sc. Computer Science**
+- 🤖 Specialized in **Generative AI & LLM Systems Engineering**
+- 🧠 Focused on **RAG, GraphRAG, LLM Evaluation, Hallucination Detection**
+- 🏗 Building **AI systems for real-world applications**
+- 🌍 Interested in **scalable AI infrastructure and trustworthy AI**
+
+📫 **Reach me:** riturajpandey.cs19@gmail.com  
 
 ---
-## 🌟 Visitors
+
+# 🌟 Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=rituraj-sys)
+
 ---
 
-## 🛠️ Skills
+# 🧠 Core Expertise
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</p>
+### 🤖 Generative AI & LLM Systems
+- Retrieval-Augmented Generation (RAG)
+- Graph RAG (Knowledge Graph based Retrieval)
+- LLM Fine-Tuning (PEFT / LoRA / Instruction tuning)
+- Hallucination Detection & Mitigation
+- LLM Evaluation & Observability
+- Agentic AI Systems
+- Multi-Agent Architectures
+- LLM Guardrails & Reliability
 
-### 🤖 Machine Learning & AI
-- **Fine-tuning**: Expertise in fine-tuning pre-trained models for specific tasks.
-- Model Development (ML/DL)
-- Transfer Learning
-- Natural Language Processing (NLP)
+---
+
+### 🧠 Machine Learning & Deep Learning
+- Supervised / Unsupervised Learning
+- Model Evaluation & Optimization
+- Feature Engineering
 - Hyperparameter Optimization
+- Transfer Learning
+- End-to-End ML Pipelines
 
-### NLP Expertise
-- Text Classification, Sentiment Analysis, Chatbot Development
+---
 
-### Tools & Platforms
+### 📊 NLP & Text Intelligence
+- Text Classification
+- Sentiment Analysis
+- Named Entity Recognition
+- Question Answering Systems
+- Semantic Similarity
+- Information Retrieval
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Meta%20API-0084FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta API">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow">
-</p>
-
-### 📚 Libraries & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-F57600?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LangChain-48C9B0?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/NLTK-32CD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Work Experience
-
-### **Solytics Partners**  
-- Working as a Data Science Consultant on AI/ML projects with a focus on scalable solutions.  
-- Contributing to the development and optimization of data pipelines, model evaluation workflows, and analytical tools.
----
-
----
-### **Skygoal Innova Technologies Pvt Ltd**
-- Developed WhatsApp chatbots using **Meta API** and integrated them with payment gateways.  
-- Designed dynamic workflows for NGO donation processes and customer engagement.  
-- Created scalable solutions for chatbot response speed improvement.
-
----
-
-## 🎯 Projects
-1. **Fine-Tuning for Sentiment Analysis**  
-   - Used **HuggingFace API** and **GPT2** to fine-tune on tweet sentiment extraction dataset.  
-   - Pushed the model to HuggingFace from where any user can use the model (https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets) 
-
-2. **Text2Image Generator**  
-   - Integrated Stable Diffusion for producing high-quality images from textual prompts.  
-   - Designed a pipeline for seamless integration of text input, image generation, and result visualization (https://scriptart.onrender.com)
-
-3. **Financial Agentic AI**
-   - Developed a multi-agent system leveraging **PhiData** for structured financial data processing and **Groq** for real-time computational analysis.  
-   - Integrated live data retrieval and contextual search capabilities using **Yahoo Finance** and **DuckDuckGo APIs** to provide accurate, up-to-date insights.  
-   - Implemented intelligent query routing among specialized AI agents (Search, Data, and Analysis) for handling complex financial queries with precision. (https://finance-agentic-ai.onrender.com/)
-
-4. **Diabetes Prediction**  
-   - Developed an end-to-end predictive model for assessing an individual's risk of developing diabetes.  
-   - Evaluated multiple machine learning models and selected Random Forest for its superior performance.
-   - Conducted hyperparameter tuning to optimize accuracy and reliability  
-
-5. **WhatsApp Chatbot for Appointment Scheduling**  
-   - Designed and implemented a WhatsApp chatbot using Twilio API for efficient appointment management.
-   - Enabled functionalities for booking, rescheduling, and managing appointments with OTP-based authentication.
-   - Secured user data and appointment details using MongoDB
-
----
-
-## 🌟 Achievements
-- **Certifications:** Data Science & Machine Learning Program, British Airways Data Science Virtual Experience Program
-- **Hackathon Participation:** Solved real-world data challenges in competitive environments (IT Day Rajasthan, 2023).
-
----
-
-## 📈 GitHub Stats
+### AI / ML Frameworks
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=radical" alt="Rituraj's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=radical" alt="Top Languages">
+<img src="https://img.shields.io/badge/HuggingFace-F57600?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-48C9B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📬 Connect with Me
-- **Email:** [riturajpandey.cs19@gmail.com](mailto:riturajpandey.cs19@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/rituraj-pandey](https://www.linkedin.com/in/rituraj-pandey-448623200)  
+### LLM Systems & GenAI Tools
+- Groq API
+- FAISS Vector Search
+- Embedding Models
+- Agent Frameworks
+- Prompt Engineering
+- Model Evaluation Pipelines
 
+---
+
+### Databases
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</p>
+
+---
+
+### Development Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+# 💼 Work Experience
+
+## **Solytics Partners**
+**Data Science Consultant**
+
+- Developing **AI/ML solutions for real-world applications**
+- Designing **LLM evaluation pipelines and analytical workflows**
+- Building **data pipelines and model validation systems**
+
+---
+
+## **Skygoal Innova Technologies Pvt Ltd**
+**Chatbot Developer Intern**
+
+- Built **WhatsApp chatbots using Meta API**
+- Integrated **payment workflows and automation systems**
+- Designed **scalable chatbot architectures for NGOs and businesses**
+
+---
+
+# 🚀 Projects
+
+## 🧠 Financial Agentic AI
+Multi-agent financial intelligence system.
+
+**Tech Stack**
+- PhiData
+- Groq LLM
+- Yahoo Finance API
+- DuckDuckGo Search
+
+**Features**
+- Multi-agent reasoning
+- Live financial data retrieval
+- Intelligent tool routing
+
+🔗 https://finance-agentic-ai.onrender.com/
+
+---
+
+## 🧠 LLM Hallucination Detection System
+Custom pipeline to detect hallucinations without ground truth.
+
+**Techniques**
+- Semantic similarity verification
+- NLI-based contradiction detection
+- NER validation
+- Token-level hallucination detection
+
+---
+
+## 📊 Customer Churn Prediction
+End-to-end ML pipeline for predicting telecom churn.
+
+- Feature engineering
+- Outlier treatment
+- Model comparison
+- XGBoost final model
+
+---
+
+## 🖼 Text-to-Image Generator
+Stable Diffusion based text-to-image generation system.
+
+🔗 https://scriptart.onrender.com
+
+---
+
+## 🤖 GPT2 Sentiment Fine-Tuning
+Fine-tuned GPT-2 on tweet sentiment extraction dataset.
+
+🔗 https://huggingface.co/riturajpandey739/gpt2-sentiment-analysis-tweets
+
+---
+
+# 🏆 Achievements
+
+- Data Science & Machine Learning Certification
+- British Airways Data Science Virtual Experience
+- Hackathon Participation (IT Day Rajasthan)
+
+---
+
+# 📈 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=radical"/>
+</p>
+
+---
+
+# 📬 Connect With Me
+
+📧 Email  
+riturajpandey.cs19@gmail.com  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/rituraj-pandey-448623200
+
+---
+
+⭐ *Always exploring ways to build more reliable, interpretable, and scalable AI systems.*
