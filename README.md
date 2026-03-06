@@ -207,9 +207,9 @@ Fine-tuned GPT-2 on tweet sentiment extraction dataset.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rituraj-sys&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-sys&layout=compact&theme=tokyonight"/>
 
 </p>
 
